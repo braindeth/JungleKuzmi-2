@@ -1,0 +1,50 @@
+<?php 
+
+
+$LANG = array(
+    "tasktodo" => "Todo",
+    "addtask" => "Taak toevoegen",
+    "task" => "Taak",
+    "daysopen" => "Dagen open",
+    "duedate" => "Deadline",
+    "priority" => "Prioriteit",
+    "action" => "Actie",
+    "edit" => "Bewerken",
+    "delete" => "Verwijderen",
+    "high" => "Hoog",
+    "normal" => "Normaal",
+    "low" => "Laag",
+    "onhold" => "Stil",
+    "tasks" => "Taken",
+    "taskupdated" => "Taak bijgewerkt",
+    "redirected" => "Je wordt nu doorverwezen naar de hoofdpagina. <br /><a href=\"index.php\">Als dat niet gebeurt, klik dan hier.</a>",
+    "eupdatetask" => "Fout: taak kan niet bijgewerkt worden. Is het JSON bestand beschrijfbaar? ",
+    "etasknotfound" => "Fout: taak niet gevonden.",
+    "taskadded" => "Taak toegevoegd.",
+    "etasknotadded" => "Fout: taak kan niet bijgewerkt worden. Is het JSON bestand beschrijfbaar? ",
+    "taskdone" => "Taak is voltooid. ",
+    "etasknotdone" => "Fout: de taak kan niet voltooid worden. Is het JSON bestand beschrijfbaar? ",
+    "etasknotdeleted" => "Fout: de taak kan niet verwijderd worden. Is het JSON bestand beschrijfbaar?",
+    "taskdeleted" => "De taak is verwijderd.",
+    "noactiongiven" => "Fout: geen goede actie meegegeven. ",
+    "thrash" => "Prullenbak",
+    "backtohomepage" => "Terug",
+    "tobin" => "Prullenbak",
+    "updatetask" => "Taak bijwerken",
+    "notasks" => "Geen items.",
+    "todo" => "To do",
+    "daysleft" => " dagen resterend",
+    "dayslate" => " dagen te laat",
+    "today" => "Vandaag!",
+    "infotext" => 'Dit is een taken/todolijst geschreven in PHP. Er wordt gebruik gemaakt van een JSON database (<a href="task.json">klik hier om deze te bekijken</a>) <br />Dit script is geschreven door <a href="https://raymii.org">Remy van Elst</a>.',
+    "info" => "Info",
+    "finishedtasks" => "Voltooide taken",
+    "" => "",
+    "" => "",
+    "" => "",
+    "" => "",
+    "" => ""
+
+    );
+
+?>
